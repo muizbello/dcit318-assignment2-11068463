@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36301.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_and_Method_Overriding", "Inheritance_and_Method_Overriding.csproj", "{8816AEB8-DB8D-4A91-BAD3-E67B479137DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract_Classes_and_Methods", "..\Abstract_Classes_and_Methods\Abstract_Classes_and_Methods.csproj", "{EF23DD50-8B4E-4865-9F3D-D4FF915A0279}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8816AEB8-DB8D-4A91-BAD3-E67B479137DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8816AEB8-DB8D-4A91-BAD3-E67B479137DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8816AEB8-DB8D-4A91-BAD3-E67B479137DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF23DD50-8B4E-4865-9F3D-D4FF915A0279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF23DD50-8B4E-4865-9F3D-D4FF915A0279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF23DD50-8B4E-4865-9F3D-D4FF915A0279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF23DD50-8B4E-4865-9F3D-D4FF915A0279}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Abstract_Classes_and_Methods\bin\Debug\Abstract_Classes_and_Methods.exe.config
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Abstract_Classes_and_Methods\bin\Debug\Abstract_Classes_and_Methods.exe
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Abstract_Classes_and_Methods\bin\Debug\Abstract_Classes_and_Methods.pdb
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Abstract_Classes_and_Methods\obj\Debug\Abstract_Classes_and_Methods.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Abstract_Classes_and_Methods\obj\Debug\Abstract_Classes_and_Methods.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Abstract_Classes_and_Methods\obj\Debug\Abstract_Classes_and_Methods.exe
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Abstract_Classes_and_Methods\obj\Debug\Abstract_Classes_and_Methods.pdb
