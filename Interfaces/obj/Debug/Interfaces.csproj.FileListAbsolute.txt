@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\user\source\repos\dcit318-assignment2-11068463\Interfaces\obj\Debug\Interfaces.pdb
